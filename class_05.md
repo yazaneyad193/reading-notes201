@@ -1,6 +1,6 @@
 # Class-05
 
-**Duckett HTML book Chapter 4**
+**Duckett HTML book **
 # Here We Will learn HTML Tags
 
 *What is Images  ?*
